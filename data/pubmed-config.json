@@ -1,0 +1,8 @@
+{
+  "query": "Irajizad E[Author]",
+  "author": {
+    "last": "Irajizad",
+    "initials": "E"
+  },
+  "exclude_pmids": []
+}
