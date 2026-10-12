@@ -4,8 +4,8 @@
     "last": "Irajizad",
     "initials": "E"
   },
-  "updated": "2026-10-05",
-  "count": 62,
+  "updated": "2026-10-12",
+  "count": 64,
   "publications": [
     {
       "pmid": "42777710",
@@ -76,6 +76,84 @@
       ],
       "keywords": [],
       "abstract": "In meta-analytic modeling, the functional relationship between a primary and surrogate endpoint is estimated using summary data from a set of completed clinical trials. Parameters in the meta-analytic model are used to assess the quality of the proposed surrogate. Recently, meta-analytic models have been employed to evaluate whether late-stage cancer incidence can serve as a surrogate for cancer mortality in cancer screening trials. A major challenge in meta-analytic models is that uncertainty of trial-level estimates affects the evaluation of surrogacy, since each trial provides only estimates of the primary and surrogate endpoints rather than their true parameter values. In this work, we show via simulation and theory that trial-level estimate uncertainty may bias the results of meta-analytic models toward positive findings of the quality of the surrogate. We focus on cancer screening trials and the late-stage incidence surrogate. We reassess correlations between primary and surrogate endpoints in Ovarian cancer screening trials. Our findings indicate that completed trials provide limited information regarding quality of the late-stage incidence surrogate. These results support restricting meta-analytic regression usage to settings where trial-level estimate uncertainty is incorporated into the model."
+    },
+    {
+      "pmid": "42845577",
+      "pmcid": "PMC13640819",
+      "doi": "10.64898/2026.08.09.26360008",
+      "title": "A blood-based signature of cytoskeletal and extracellular remodeling for risk stratification of intraductal papillary mucinous neoplasms.",
+      "authors": [
+        "Patterson L",
+        "Ballarò R",
+        "Chen Y",
+        "Vilchis Celis A",
+        "Zuo M",
+        "Chellakkan Selvanesan B",
+        "Flores Villanueva A",
+        "Irajizad E",
+        "Koay E",
+        "Kim MP",
+        "Reinhart-King C",
+        "Tran T",
+        "Maitra A",
+        "Zhang J",
+        "Schmidt CM",
+        "Hanash S",
+        "Fahrmann JF"
+      ],
+      "journal": "medRxiv : the preprint server for health sciences",
+      "journalAbbr": "medRxiv",
+      "year": 2026,
+      "date": "2026-08-11",
+      "volume": "",
+      "issue": "",
+      "pages": "2026.08.09.26360008",
+      "kind": "Preprint",
+      "topics": [
+        "Screening & risk"
+      ],
+      "keywords": [],
+      "abstract": "Background: Intraductal papillary mucinous neoplasms (IPMNs) are recognized as precursor lesions to pancreatic ductal adenocarcinoma (PDAC). However, the molecular programs underlying progression from low-grade dysplasia to advanced disease remain incompletely characterized. Herein, we performed an integrated plasma and tissue-proteomic analyses coupled with spatial and single-cell transcriptomics to identify biologically coherent remodeling programs reflected in circulation that distinguish IPMN by dysplasia grade and invasive disease. Methods: Using the O-link proximity extension assay platform, a panel of 1,104 proteins were quantified in plasma samples collected from patients with low-grade (LG) IPMN (n=30), high-grade (HG) IPMN with or without associated PDAC (IPMN/PDAC; n=40) and PDAC without IPMN (n=8). Predictive performance of individual biomarkers were assessed; likelihood ratio testing was performed to identify protein biomarkers that were complementarity with CA19-9 for risk of malignancy of IPMN. Findings were intersected with available spatial (N= 13) and single-cell (N= 6) transcriptomic datasets of IPMN tissues as well as mass spectrometry-based proteomic profiles of an independent set of resected human IPMN tissues (N= 9). Results: A total of 28, 43, and 35 circulating proteins were found to be differential in HG, IPMN/PDAC, and HG + IPMN/PDAC cases compared to LG IPMN. Among differential proteins were known PDAC-associated markers CEACAM5, CTRC, and REG3A as well as several biomarkers reflecting cytoskeletal and extracellular matrix remodeling and inflammatory processes. Focusing on cytoskeletal and ECM-related proteins and using likelihood ratio testing, an \"OR\" rule considering CA19-9, BGN, and ITGB1BP1 achieved overall sensitivity of 48.7% for HG + IPMN/PDAC, including 38.1% sensitivity for HG IPMN, at an overall specificity of 90%, which was improved compared to that of CA19-9 alone (overall sensitivity of 28.2%; McNemar Exact test 1-sided p-value: 0.011). Integrated proteomic and spatial transcriptomic datasets of IPMN tissues revealed coordinated alterations cytoskeletal and ECM remodeling and elevated matrix stiffness as prominent features associated with IPMN/PDAC, which paralleled concordant increases in BGN and ITGB1BP1. Cell-type of origin analyses based on spatial and single-cell data further revealed fibroblasts and myeloid cells as primary contributors to expression levels of BGN whereas ITGB1BP1 was primarily expressed in neoplastic epithelium. Conclusion: Advanced IPMN dysplasia and invasive disease are characterized by coordinated tissue remodeling programs that are systemically reflected in circulating proteomic profiles. Blood-based biomarkers identified through our study, such as BGN and ITB1BP1, have potential to improve upon CA19-9 for risk stratification of IPMN to better guide clinical management."
+    },
+    {
+      "pmid": "42845671",
+      "pmcid": "PMC13640811",
+      "doi": "10.64898/2026.08.06.26359908",
+      "title": "Assessment of impending pancreatic cancer in a cohort of new onset diabetes on basis of biomarker trajectory.",
+      "authors": [
+        "Irajizad E",
+        "Lopez C",
+        "Chari S",
+        "Vykoukal J",
+        "Spencer R",
+        "Li Y",
+        "Dennison JB",
+        "Koay EJ",
+        "McAllister F",
+        "Kim M",
+        "Young M",
+        "Hart PA",
+        "Fisher W",
+        "Vandeneeden SK",
+        "Wu BU",
+        "Feng Z",
+        "Hanash S",
+        "Maitra A",
+        "Fahrmann JF"
+      ],
+      "journal": "medRxiv : the preprint server for health sciences",
+      "journalAbbr": "medRxiv",
+      "year": 2026,
+      "date": "2026-08-10",
+      "volume": "",
+      "issue": "",
+      "pages": "2026.08.06.26359908",
+      "kind": "Preprint",
+      "topics": [
+        "Pancreatic"
+      ],
+      "keywords": [],
+      "abstract": "Purpose: To assess the predictive performance of panel protein biomarkers as well as an established algorithm that considers repeat biomarker testing for risk prediction of PDAC among a prospective cohort of patients with New-onset diabetes. Patients And Methods: A panel of protein biomarkers (CA19-9, CA125, CEA, LRG1, REG3A and TIMP1) were assayed in 6,516 serially collected pre-diagnostic plasma samples from 2,121 NOD patients from the Consortium of Chronic Pancreatitis Diabetes and Pancreatic Cancer (CPDPC)-initiated NOD study who completed the 3-year study follow-up period. The specimen set included 25 pre-diagnostic samples from the 12 PDAC cases diagnosed during study follow-up. We applied a single threshold (ST) method, which considers biomarker levels at a single time point, as well as a previously established parametrical empirical Bayes (PEB) algorithm, which considers prior biomarker measurements, with 'case' calls made based on pre-specified cutoffs corresponding to 1% 1-year risk. Resultant biomarker data as well as case calls were provided to the EDRN Data Management and Coordinating Center as part of a Prospective-sample-collection-Retrospective-Blinded-Evaluation (ProBE)-compliant Phase 3 biomarker validation study. Area under the Receiver Operating Characteristic Curves (AUC), sensitivity, specificity, population-level positive predictive value (PPV), and negative predictive value (NPV) are reported. Results: The 3-year incidence of PDAC in the NOD cohort was 0.57%. When considering PDAC vs non-cancer controls, respective AUCs of individual protein biomarkers ranged from 0.52-0.94, with CA19-9 achieving the highest overall performance of 0.94 (95% CI: 0.86-1.00). At the pre-defined 1% 1-year risk threshold, CA19-9 yielded sensitivity of 83.3% at 97.2% specificity. Additional markers CEA, CA125, and TIMP1 demonstrated sensitivity of 33.3%, 41.7%, and 8.3%, respectively. In a subset of patients, CA19-9 first tested 'positive' at a median (interquartile range [IQR]) of 7 months (4 to 14 months) prior to clinical PDAC diagnosis. Of the two PDAC cases missed by CA19-9 using the ST method, one (diagnosed with stage III PDAC) was detected using the PEB CA19-9 algorithm. Conclusion: In the setting of adult new onset diabetes, CA19-9 is a readily available and promising biomarker that can be leveraged for earlier detection of an underlying pancreatic cancer. Additional protein biomarkers may improve sensitivity for earlier detection of PDAC among cases with low CA19-9."
     },
     {
       "pmid": "41779007",
